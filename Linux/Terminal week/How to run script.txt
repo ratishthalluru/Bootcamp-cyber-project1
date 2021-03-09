@@ -1,0 +1,8 @@
+Please follow this steps to run script 
+
+run this command: sh roulette_dealer_finder_by_time.sh Date Time AM/PM
+
+
+Date format: eg - 0312
+
+Time format: eg - 05:00:00 AM
